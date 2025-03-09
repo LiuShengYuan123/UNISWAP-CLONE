@@ -1,0 +1,31 @@
+{
+  "name": "clint",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-modal": "^3.16.3"
+  },
+  "devDependencies": {
+    "@emotion/react": "^11.14.0",
+    "@sanity/client": "^6.28.3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-modal": "^3.16.3",
+    "ethers": "^6.13.5",
+    "react-icons": "^5.5.0",
+    "react-spinners": "^0.15.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
